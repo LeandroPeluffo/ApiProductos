@@ -1,0 +1,109 @@
+{
+  "Catálogo": [
+    {
+      "id": 1,
+      "Nombre":"KINGSTON FURY MEMORIA DDR5",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXDC54.jpg",
+      "precio":94,
+      "categoria":"Componentes"
+    },
+    {
+      "id": 2,
+      "Nombre":"ACER NITRO MONITOR VG270 27",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXVG270.jpg",
+      "precio":346,
+      "categoria":"Monitor"
+    },
+    {
+      "id": 3,
+      "Nombre":"DELL MONITOR G2722HS 27",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXG27.jpg",
+      "precio":581,
+      "categoria":"Monitor"
+    },
+    {
+      "id": 4,
+      "Nombre":"CORSAIR TECLADO K68 RED",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXCOT51.jpg",
+      "precio":82,
+      "categoria":"Perifericos"
+    },
+    {
+      "id": 5,
+      "Nombre":"COUGAR TECLADO VANTAR",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXVAAX.jpg",
+      "precio":57,
+      "categoria":"Perifericos"
+    },
+    {
+      "id": 6,
+      "Nombre":"ASUS MOUSE P509 ROG KERIS",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXASM112.jpg",
+      "precio":116,
+      "categoria":"Perifericos"
+    },
+    {
+      "id": 7,
+      "Nombre":"LOGITECH MOUSE G502 X BLACK",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXG52B.jpg",
+      "precio":85,
+      "categoria":"Perifericos"
+    },
+    {
+      "id": 8,
+      "Nombre":"AMD PROCESADOR RYZEN 7 5700G",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXAMP62.jpg",
+      "precio":286,
+      "categoria":"CPU"
+    },
+    {
+      "id": 9,
+      "Nombre":"INTEL PROCESADOR I7-11700F",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFX11700F.jpg",
+      "precio":350,
+      "categoria":"CPU"
+    },
+    {
+      "id": 10,
+      "Nombre":"ASUS GEFORCE RTX3060TI 8GB DUAL",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFX3060V.jpg",
+      "precio":948,
+      "categoria":"GPU"
+    },
+    {
+      "id": 11,
+      "Nombre":"GIGABYTE GEFORCE GTX1630 OC 4GB",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFX163O.jpg",
+      "precio":296,
+      "categoria":"GPU"
+    },
+    {
+      "id": 12,
+      "Nombre":"GIGABYTE AMD RADEON RX6700 XT 12GB",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFX67X.jpg",
+      "precio":1382,
+      "categoria":"GPU"
+    },
+    {
+      "id": 13,
+      "Nombre":"POWERCOLOR AMD RADEON RX 6600 8GB GDDR6",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFX66FI.jpg",
+      "precio":768,
+      "categoria":"GPU"
+    },
+    {
+      "id": 14,
+      "Nombre":"ADAPTADOR GENERICO HDMI A VGA ACTIVO/AUDIO",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXAHDAV.jpg",
+      "precio":6,
+      "categoria":"Adaptadores"
+    },
+    {
+      "id": 15,
+      "Nombre":"CABLE HDMI M/M 3MTS",
+      "img":"https://www.banifox.com/imagenes/img_contenido/productos/b/BFXLDK3M.jpg",
+      "precio":12,
+      "categoria":"Cables"
+    }
+  ]
+}
